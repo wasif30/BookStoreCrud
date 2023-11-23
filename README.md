@@ -11,7 +11,7 @@ Node.js
 MongoDB
 
 # Installation
-Clone the repository: git clone https://github.com/wasif30/book-store
+Clone the repository: git clone https://github.com/wasif30/BookStoreCrud
 
 # Navigate to the project directory:
 Change into the project directory: cd repo
